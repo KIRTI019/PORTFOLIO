@@ -35,7 +35,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque saepe mollitia officiis quibusdam eveniet minus placeat recusandae ducimus distinctio adipisci explicabo obcaecati aspernatur, ullam iusto magnam assumenda consectetur vero velit?
+            Hello there! I'm Kirti Kumar, a passionate and creative Full Stack Web Developer enthusiast with a strong desire to make a meaningful impact through my work. I am excited to embark on a journey of learning, growth, and exploration in the world of Web Developing.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
